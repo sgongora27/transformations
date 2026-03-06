@@ -1,4 +1,4 @@
-name: payador
+name: transformations
 channels:
   - conda-forge
   - defaults
